@@ -3,7 +3,7 @@ import subprocess
 
 if os.geteuid() != 0:
     print("This program must be run as root.")
-    print("Run it with: sudo ./led.py")
+    print("Run it with: sudo ./changeleds.py")
     sys.exit(1)
 
 def i2c_write(register, value):
