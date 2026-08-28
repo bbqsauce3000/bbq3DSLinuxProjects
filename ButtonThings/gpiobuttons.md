@@ -70,5 +70,5 @@ REL\_X and REL\_Y (*from Nintendo 3DS touch HID, interestingly enough*) are inte
 
 REL\_X and REL\_Y seem to have -10 to 10 as their possible values, as shown below:
 
-![Nintendo 3DS](3dsslidepadxyvalues.png)
+![Nintendo 3DS](mdassets/3dsslidepadxyvalues.png)
 
